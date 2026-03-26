@@ -17,3 +17,6 @@ Various,True Charity Donations (Monarch export),monarch/true_charity_2025.csv,Sc
 Eager LLC,Eager LLC Business Expenses (Monarch export),monarch/eager_llc_expenses_2025.csv,Schedule C,,$66097.27,Received,2026-03-26
 E*TRADE / Morgan Stanley,E*TRADE Consolidated 1099,etrade/2025_etrade_MS_2025_1099-CONS_MSSB_LLC_8203_20260217.pdf,1099-DIV / 1099-B,All CRM (Salesforce RSU/ESPP); see supplemental for ESPP basis adjustment of $1635.18,Dividends $422.71 | Net cap gains ~$19945.04 (adjusted ~$18664.79),Received,2026-03-26
 Fidelity,Fidelity Crypto Account 1099,,1099,Need to locate document from Fidelity,,Pending,2026-03-26
+Alumni Ventures,AV AI Fund 2 K-1,alumni_ventures/2025-AV-AI-Fund-2-Joseph-Fluckiger-35174.pdf,K-1 (Form 1065),LTCG may need Section 1061 recharacterization to short-term; mgmt fees $600 likely non-deductible,Interest $87 | LTCG $394 | Net ($119),Received,2026-03-26
+Alumni Ventures,Congress Avenue Ventures Fund 4 K-1,alumni_ventures/2025-Congress-Avenue-4-Joseph-Fluckiger-35880.pdf,K-1 (Form 1065),LTCG loss may need Section 1061 recharacterization; mgmt fees $600 likely non-deductible,Interest $172 | LTCG ($447) | Net ($878),Received,2026-03-26
+Boxwilson,Boxwilson K-1,,K-1 (Form 1065),,,Pending,2026-03-26
