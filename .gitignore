@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+
+# Python (for occasional helper scripts)
+__pycache__/
+*.pyc
+.venv/
+
+.obsidian/

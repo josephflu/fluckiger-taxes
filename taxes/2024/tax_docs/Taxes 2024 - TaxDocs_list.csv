@@ -1,0 +1,24 @@
+Entity,Received,hard copy,doc type,notes,uploaded,in physical folder,amount
+Etrade,yes,-,1099,etrade_MS_2024_1099-CONS_MSSB_LLC_8203_20250218.pdf,yes,-,
+Etrade,yes,-,supliment,etrade_getSupplementalInformation.pdf,yes,-,
+Etrade,yes,-,1099 group letter,etrade_MS_2024_Mailing_Group_3_1099_Letter_8203_20250127.pdf,yes,-,
+Fidelity Individual Trading,yes,-,1099,fidelity_2024-Individual-Trading-6724-Consolidated-Form-1099.pdf,yes,-,
+Fidelity Joint Managed Trading,yes,-,1099,fidelity_2024-Joint-Managed-9595-Consolidated-Form-1099.pdf,yes,-,
+Alumni Ventures,yes,yes,K1,packet of tax docs,-,yes,
+Boxwilson,yes,-,K1 pdf,"2024_K-1_EAGER LLC_BOX WILSON EQUITY 8, LLC.pdf",yes,-,
+Eager LLC,yes,-,expense list,(see tab: Eager 2024 Transactions ),yes,-,"$11,311.01"
+LDS Church-Tithing and fast,yes,-,gift receipt,lds_donations_2024.pdf,yes,-,"$9,482.00"
+LDS church-Tithing sarah,,,,,TODO,-,
+LDS Church BYU Philantropies,yes,yes,gift receipt, to BYU for $800,-,yes,
+non lds charity,yes,-,csv,"goodwill, car donation, hcbc, etc. eager_llc_Taxes_2024_ non-lds_charity_donations.csv",yes,-,"$3,075.30"
+Salesforce Healthcare coverage,yes,yes,1095-C,healthcare coverage declaration,-,yes,
+Salesforce W2,yes,yes,W2,"wages 2024 $256,019.93",-,yes,
+Salesforce ESPP tax docs,yes,yes,3922,"3 pages, only lists 2 transactions",-,yes,
+salesforce-optimum financial,,,,,,,
+Sarah Walsh MS W2,yes,yes,W2,,-,yes,
+Sarah 1095-C Healthcare coverage,yes,yes,1095-C,healthcare coverage declaration,-,yes,
+Chase mortgage interest 2024,yes,yes,Form 1098,mortgage interest,-,yes,
+UTD - Michael tuition doc,yes,yes,Form 1098-T,qualified Tuition $6498,-,yes,
+HSA docs,,,"Form 1099 
+and 5498",,,,
+Property Tax 2024,?,yes,county receipt,,,,
