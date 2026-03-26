@@ -4,13 +4,30 @@
 
 ---
 
+## Filers and Dependents
+
+| Name | Role | SSN | Credit |
+|---|---|---|---|
+| Stephen J. Fluckiger | Primary filer | 460-95-6027 | — |
+| Sarah L. Fluckiger | Spouse | 530-21-8957 | — |
+| Michael J. Fluckiger | Son (age 20) | 766-40-7825 | $500 (other dependent) |
+| Yeni Ramos | Daughter (age 19) | 873-49-9701 | $500 (other dependent) |
+| Landon L. Fluckiger | Son (turned 17 on 2/24/25) | 643-13-4131 | $500 (other dependent) |
+| Eliza M. Fluckiger | Daughter (turned 12 in 2025) | 284-91-7258 | $2,000 (child tax credit) |
+
+> Landon turned 17 on Feb 24, 2025 — was 17 on 12/31/2025, so he does NOT qualify for the $2,000 child tax credit (must be **under** 17 at year-end). He drops to $500.
+> Total credits: **$3,500** (down from $5,000 in 2024).
+> Education credits (American Opportunity / Lifetime Learning) **not available** — AGI exceeds $180K phase-out.
+
+---
+
 ## Documents Still Needed
 
 | Document | Source | Impact |
 |---|---|---|
 | Fidelity Crypto 1099 | Fidelity.com | Could add gains/losses |
 | Boxwilson K-1 | Mail | Could add passive income/loss |
-| Property Tax Receipt 2025 | County records | Only matters if itemizing (see below) |
+| Salesforce Form 3922 (ESPP) | Salesforce / E*TRADE | Had one in 2024 — check if ESPP purchase happened Jan–Apr 2025 |
 
 All other documents have been received and processed. See `Taxdocs_2025_Doc_Inventory.csv` for full list.
 
@@ -97,8 +114,8 @@ All other documents have been received and processed. See `Taxdocs_2025_Doc_Inve
 |---|---|
 | Charitable (tithing $10,538 + mission $2,780 + charity $971) | $14,289.13 |
 | Mortgage interest (Chase 1098) | $3,400.41 |
-| SALT — property tax (capped at $10,000) | TBD |
-| **Max possible itemized** | **~$27,690** |
+| SALT — property tax $10,902.97 (capped at $10,000) | $10,000.00 |
+| **Total itemized** | **$27,689.54** |
 
 | Standard deduction (MFJ 2025) | **$30,000** |
 |---|---|
@@ -173,15 +190,27 @@ All other documents have been received and processed. See `Taxdocs_2025_Doc_Inve
 | Net Investment Income Tax (3.8% — Form 8960) | $1,325 |
 | **Total additional taxes** | **$2,194** |
 
+### Credits
+
+| Credit | Amount |
+|---|---|
+| Child Tax Credit — Eliza (under 17) × $2,000 | $2,000 |
+| Credit for Other Dependents — Michael + Yeni + Landon × $500 | $1,500 |
+| **Total credits** | **$3,500** |
+
+> Landon turned 17 on 2/24/25 — no longer qualifies for $2,000 child tax credit (must be under 17 at 12/31/25).
+> Phase-out begins at $400K AGI (MFJ) — AGI of ~$355K is well under.
+
 ### Summary
 
 | | Amount |
 |---|---|
 | Federal income tax | $60,653 |
 | Additional taxes | $2,194 |
-| **Total estimated tax** | **$62,847** |
+| Credits | ($3,500) |
+| **Total estimated tax** | **$59,347** |
 | Federal tax withheld (W-2s) | ($58,494) |
-| **Estimated balance due** | **~$4,353** |
+| **Estimated balance due** | **~$853** |
 
 ---
 
@@ -205,6 +234,46 @@ All other documents have been received and processed. See `Taxdocs_2025_Doc_Inve
 4. **Confirm Marketplace coverage** — did you use healthcare.gov coverage May–Dec after Salesforce ended?
 5. **Verify GEICO 401k rollover** — confirm receiving institution got the full $1,501.86
 6. **File Texas Franchise Tax** for Eager LLC by May 15, 2026
+
+---
+
+## 2024 vs 2025 Comparison
+
+| | 2024 (actual) | 2025 (estimated) |
+|---|---|---|
+| W-2 wages | $294,568 | $323,028 |
+| Capital gains (net) | $38,531 | $31,210 |
+| Interest | $736 | $261 |
+| Dividends | $2,814 | $3,406 |
+| AGI | $336,349 | $354,993 |
+| Standard deduction | $29,200 | $30,000 |
+| Taxable income | $307,132 | $324,993 |
+| Tax before credits | $56,116 | $60,653 |
+| Child/dependent credits | ($5,000) | ($3,500) |
+| Additional taxes | $2,152 | $2,194 |
+| **Total tax** | **$53,268** | **$59,347** |
+| Withheld | $51,891 | $58,494 |
+| **Owed / (Refund)** | **$1,398** | **$853** |
+
+Key differences:
+- Higher W-2 due to 3 employers (Salesforce + Kizen + GEICO) vs 2 in 2024 (Salesforce + Sarah)
+- Lower capital gains ($31K vs $39K) — less CRM stock sold, no INTC loss to offset
+- No capital loss carryover available (the $8,456 carryover was fully consumed in 2024)
+- HSA employee deduction of $4,390 in 2025 (was $0 in 2024 — likely fully employer-funded)
+- Higher withholding in 2025 leads to small refund vs owing in 2024
+- Ron Ruiz charged $925 for 2024 prep — self-filing in 2025 saves this cost
+
+---
+
+## Items From 2024 Return to Verify for 2025
+
+| Item | 2024 | 2025 Status |
+|---|---|---|
+| Educator expense ($300) | Claimed on Schedule 1 line 11 | Check if applicable — who was the educator? |
+| Salesforce Form 3922 (ESPP) | Had 3 pages / 2 transactions | Check if ESPP purchase occurred Jan–Apr 2025 before leaving |
+| Form 1098-T (Michael at UTD) | $6,498 qualified tuition | Check if Michael still enrolled — no credit available but may need form |
+| Digital assets question | Answered "No" | Likely "Yes" for 2025 if Fidelity Crypto account had any activity |
+| Line 25c other payments ($625) | Some additional withholding source | Identify if this applies in 2025 |
 
 ---
 
