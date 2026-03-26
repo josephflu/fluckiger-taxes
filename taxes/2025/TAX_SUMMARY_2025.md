@@ -1,124 +1,211 @@
 # Tax Summary — Joseph & Sarah Fluckiger
 ## Tax Year 2025 | Filing Status: Married Filing Jointly
-*Last updated: 2026-03-25 | Prepared with Phil (CFO Agent)*
+*Last updated: 2026-03-26*
 
 ---
 
-## ⚠️ Documents Still Needed
+## Documents Still Needed
 
-| Document | Source | Status |
+| Document | Source | Impact |
 |---|---|---|
-| Salesforce W2 | Hard copy / Workday | ⏳ Pending |
-| Kizen W2 | Email / HR | ⏳ Pending |
-| Etrade 1099 Consolidated | Etrade.com | ⏳ Pending |
-| Etrade Supplemental | Etrade.com | ⏳ Pending |
-| Fidelity Individual (6724) 1099 | Fidelity.com | ⏳ Pending |
-| Fidelity Joint Managed (9595) 1099 | Fidelity.com | ⏳ Pending |
-| Boxwilson K-1 | Mail (may need extension) | ⏳ Not yet issued |
-| Alumni Ventures K-1 | Mail/email | ⏳ Not yet issued |
-| Chase Form 1098 (mortgage interest) | Chase.com | ⏳ Pending |
-| Property Tax Receipt 2025 | County records | ⏳ Pending |
-| HSA 1099-SA (Optimum) | Optimum portal | ⏳ Pending |
-| HSA 5498-SA (Optimum) | Optimum portal | ⏳ Pending |
-| LDS Tithing Statement (official letter) | LDS.org | ⏳ Pending |
-| Past tax return (2024) | Ron Ruiz / files | ⏳ Upload when ready |
+| Fidelity Crypto 1099 | Fidelity.com | Could add gains/losses |
+| Boxwilson K-1 | Mail | Could add passive income/loss |
+| Property Tax Receipt 2025 | County records | Only matters if itemizing (see below) |
+
+All other documents have been received and processed. See `Taxdocs_2025_Doc_Inventory.csv` for full list.
 
 ---
 
-## 💰 Income (Estimated)
+## Income
 
-### W2 Wages
-| Source | Period | Est. Annual Rate | Est. W2 Amount |
+### W-2 Wages
+
+| Source | Wages (Box 1) | Federal Withheld (Box 2) | 401(k) (Box 12D) |
 |---|---|---|---|
-| Salesforce | Jan – ~Oct 2025 | ~$200,000/yr | ~$163,000 (est.) |
-| Kizen | Jul – Dec 2025 | ~$200,000/yr | ~$100,000 (est.) |
-| Sarah | None | — | $0 |
-| **Total W2** | | | **~$263,000 (est.)** |
+| Salesforce (Jan–Apr) | $209,615.55 | $43,405.90 | $5,655.28 |
+| Kizen (Jul–Dec) | $101,913.21 | $14,034.91 | $2,329.18 |
+| GEICO (partial year) | $11,499.02 | $1,053.37 | $692.32 |
+| **Total** | **$323,027.78** | **$58,494.18** | **$8,676.78** |
 
-> ⚠️ Estimates only — actual numbers from W2s will differ (includes bonuses, severance, ESPP, etc.)
-> Note: Salesforce severance lump sum will be included in W2 total.
+### Dividends
 
-### Investment Income (TBD from 1099s)
-| Account | Type | Est. Amount |
+| Source | Total Ordinary (1a) | Qualified (1b) |
 |---|---|---|
-| Etrade (MSSB 8203) | Capital gains / dividends | TBD |
-| Fidelity Individual (6724) | Capital gains / dividends | TBD |
-| Fidelity Joint Managed (9595) | Capital gains / dividends | TBD |
-| Boxwilson K-1 | Real estate passive income/loss | TBD — K-1 pending |
-| Alumni Ventures K-1 | Private equity / AI fund | TBD — K-1 pending |
-| eBay account (via Fidelity?) | Capital gains | TBD — export needed |
+| Fidelity Individual (6724) | $755.35 | $58.66 |
+| Fidelity Joint Managed (9595) | $2,228.05 | $2,085.55 |
+| E*TRADE | $422.71 | $422.71 |
+| **Total** | **$3,406.11** | **$2,566.92** |
 
-### Business Income (Eager LLC)
-- **Revenue: $0** (no income in 2025)
-- **Texas Franchise Tax:** Must file annual report + pay fee (~$300) even with no income
-  - Due: May 15, 2026
-  - File at: https://comptroller.texas.gov/taxes/franchise/
+### Interest
+
+| Source | Amount |
+|---|---|
+| E*TRADE (bank sweep) | $2.09 |
+| AV AI Fund 2 (K-1) | $87.00 |
+| Congress Avenue Fund 4 (K-1) | $172.00 |
+| **Total** | **$261.09** |
+
+### Capital Gains / Losses
+
+| Source | Short-Term | Long-Term | Net |
+|---|---|---|---|
+| Fidelity Individual (6724) | ($1,552.38) | $11,831.83 | $10,279.45 |
+| Fidelity Joint Managed (9595) | ($4,888.96) | $7,562.53 | $2,673.57 |
+| E*TRADE (adjusted for ESPP) | $10.85 | $18,299.01 | $18,309.86 |
+| AV AI Fund 2 (K-1) | — | $394.00 | $394.00 |
+| Congress Avenue Fund 4 (K-1) | — | ($447.00) | ($447.00) |
+| **Total** | **($6,430.49)** | **$37,640.37** | **$31,209.88** |
+
+> Note: E*TRADE ESPP lot (47 shares) has $1,635.18 basis adjustment — use adjusted basis of $10,901.18 on Form 8949 Box D. See supplemental .md for details.
+> Section 1061: AV AI Fund 2 LTCG of $394 may need recharacterization to short-term (held < 3 years).
+
+### IRA Distributions (1099-R)
+
+| Description | Gross | Taxable | Code |
+|---|---|---|---|
+| Vanguard — early IRA distribution | $1,481.72 | **$1,481.72** | 1 (early — 10% penalty applies) |
+| Vanguard — GEICO 401k rollover | $1,501.86 | $0 | G (direct rollover — not taxable) |
+
+### Other K-1 Items
+
+| Fund | Ordinary Income | Mgmt Fees (13 AE) | Deductible? |
+|---|---|---|---|
+| AV AI Fund 2 | $0 | $600 | Likely non-deductible (TCJA) |
+| Congress Avenue Fund 4 | ($3) | $600 | Likely non-deductible (TCJA) |
+
+### Business (Eager LLC)
+
+- **Revenue:** $0
+- **Expenses:** $16,097.27 tracked (excludes $50,000 Boxwilson investment)
+- **Not claiming expenses on 2025 return** — no revenue to offset
+- **Texas Franchise Tax:** Must still file by May 15, 2026 (even with $0 revenue)
 
 ---
 
-## 📉 Deductions
+## Deductions
 
-### Charitable Donations (from Monarch) ✅
-| Category | Items | Amount |
+### Above-the-Line (reduce AGI)
+
+| Deduction | Amount |
+|---|---|
+| HSA contribution (employee portion: $8,550 - $4,160 employer) | $4,390.00 |
+| **Total adjustments** | **$4,390.00** |
+
+### Standard vs. Itemized
+
+| Itemized | Amount |
+|---|---|
+| Charitable (tithing $10,538 + mission $2,780 + charity $971) | $14,289.13 |
+| Mortgage interest (Chase 1098) | $3,400.41 |
+| SALT — property tax (capped at $10,000) | TBD |
+| **Max possible itemized** | **~$27,690** |
+
+| Standard deduction (MFJ 2025) | **$30,000** |
+|---|---|
+
+**Standard deduction wins** — even at the $10,000 SALT cap, itemized maxes out at ~$27,690. Take the standard deduction.
+
+> If you want to still benefit from the charitable giving: consider a donor-advised fund (DAF) to "bunch" future years' donations into one year to exceed $30K.
+
+---
+
+## HSA (Form 8889)
+
+| Item | Amount |
+|---|---|
+| Total contributions (5498-SA Box 2) | $8,550.00 |
+| Employer contributions (Salesforce W-2 Box W) | $4,160.00 |
+| Employee contributions (deductible) | $4,390.00 |
+| Distributions (1099-SA Box 1) | $7,727.13 |
+| 2025 family limit | $8,300 |
+| 2025 family limit + age 55 catch-up | $9,300 |
+
+**Flag:** $8,550 exceeds the $8,300 family limit by $250. If either of you is 55+ the catch-up applies and you're fine. If not, the $250 excess is subject to a **6% excise tax ($15)** on Form 5329 unless withdrawn before the filing deadline.
+
+---
+
+## Tax Estimate
+
+### Adjusted Gross Income (AGI)
+
+| | Amount |
+|---|---|
+| W-2 wages | $323,027.78 |
+| Dividends | $3,406.11 |
+| Interest | $261.09 |
+| Net capital gain | $31,209.88 |
+| IRA distribution (taxable) | $1,481.72 |
+| K-1 ordinary loss | ($3.00) |
+| HSA deduction | ($4,390.00) |
+| **AGI** | **$354,993** |
+
+### Taxable Income
+
+| | Amount |
+|---|---|
+| AGI | $354,993 |
+| Standard deduction | ($30,000) |
+| **Taxable income** | **$324,993** |
+
+### Federal Tax Calculation
+
+**Ordinary income** (taxable income minus preferential income):
+- Preferential income (qualified dividends + net LTCG): $2,567 + $31,210 = **$33,777**
+- Ordinary income: $324,993 - $33,777 = **$291,216**
+
+| Bracket | Rate | Tax |
 |---|---|---|
-| LDS Tithing | 13 | $10,538.00 |
-| Michael Mission | 6 | $2,780.00 |
-| Charities (Goodwill, BYU, etc.) | 24 | $971.13 |
-| **Total** | | **$14,289.13** |
+| $0 – $23,850 | 10% | $2,385 |
+| $23,851 – $96,950 | 12% | $8,772 |
+| $96,951 – $206,700 | 22% | $24,145 |
+| $206,701 – $291,216 | 24% | $20,284 |
+| **Tax on ordinary income** | | **$55,586** |
 
-> Cross-reference against official LDS tithing statement when received.
+**Tax on preferential income** (qualified dividends + net LTCG):
+- $33,777 × 15% = **$5,067**
 
-### Mortgage Interest
-- Chase Form 1098 — TBD (upload when available)
+### Additional Taxes
 
-### Property Tax
-- County receipt 2025 — TBD
-
-### HSA Contributions
-- Form 5498-SA — TBD
-- Max 2025 contribution: $8,300 (family) — confirm actual amount
-
-### Eager LLC Business Expenses (for records — no income to offset)
-| Category | Amount |
+| Tax | Amount |
 |---|---|
-| Upwork (contractors) | $8,150.97 |
-| Business Tech (software/tools) | $1,978.42 |
-| Sarah Business | $1,713.88 |
-| Business Services | $1,544.68 |
-| Google Workspace | $1,177.97 |
-| Joseph Business | $773.56 |
-| Miscellaneous | $431.14 |
-| Financial Fees | $125.00 |
-| Other | $201.65 |
-| **Total tracked expenses** | **$16,097.27** |
+| Early withdrawal penalty (10% on $1,481.72 — Form 5329) | $148 |
+| Additional Medicare Tax (0.9% on wages over $250K MFJ) | $721 |
+| Net Investment Income Tax (3.8% — Form 8960) | $1,325 |
+| **Total additional taxes** | **$2,194** |
 
-> Note: BoxWilson $50,000 excluded (investment principal, not deductible expense)
-> Since no income, these create a net loss — may be deductible against other income depending on LLC structure.
+### Summary
 
----
-
-## 📋 Key Decisions / Questions
-
-1. **K-1s (Boxwilson + Alumni Ventures):** If not received by April 15, file extension (Form 4868). Easy to do, gives until Oct 15. Recommend filing extension proactively.
-2. **Alumni Ventures depreciation:** The K-1 may include depreciation pass-through — wait for the actual document before making decisions.
-3. **Eager LLC structure:** Confirm whether it's a sole proprietorship (Schedule C) or partnership/S-Corp. If sole prop, losses could offset W2 income.
-4. **Texas Franchise Tax:** Must file even with $0 revenue. Due May 15, 2026.
-5. **Sarah income:** Confirmed $0 for 2025.
-6. **Standard vs. itemized deduction:** With ~$14k+ in charitable donations + mortgage interest + property tax, itemizing likely beats the standard deduction ($29,200 for MFJ in 2025). Confirm once all docs are in.
-
----
-
-## 📁 Files in This Folder
-
-| File | Description |
+| | Amount |
 |---|---|
-| `TAX_SUMMARY_2025.md` | This document |
-| `Tax Year 2025 Checklist.csv` | Document tracking checklist |
-| `tithing_2025.csv` | LDS tithing from Monarch |
-| `mission_2025.csv` | Mission contributions from Monarch |
-| `true_charity_2025.csv` | Non-LDS charitable donations |
-| `eager_llc_expenses_2025.csv` | Eager LLC business expenses |
+| Federal income tax | $60,653 |
+| Additional taxes | $2,194 |
+| **Total estimated tax** | **$62,847** |
+| Federal tax withheld (W-2s) | ($58,494) |
+| **Estimated balance due** | **~$4,353** |
 
 ---
 
-*This is a working document, not tax advice. Phil (CFO Agent) — for planning purposes only.*
+## Pending Items That Could Change This Estimate
+
+| Item | Potential Impact |
+|---|---|
+| Fidelity Crypto 1099 | Gains would increase tax; losses would reduce it |
+| Boxwilson K-1 | Could add income or loss; last year was passive real estate |
+| HSA excess ($250) | If no age-55 catch-up: $15 penalty |
+| Section 1061 recharacterization | AV AI $394 LTCG → STCG; minimal impact (~$35) |
+| Form 8962 (Premium Tax Credit) | If Marketplace coverage used May–Dec, could owe or receive credit |
+
+---
+
+## Key Actions
+
+1. **Locate Fidelity Crypto 1099** — check Fidelity.com tax documents
+2. **Get Boxwilson K-1** — if not received by April 15, file extension (Form 4868)
+3. **Confirm HSA catch-up eligibility** — is either filer age 55+ in 2025?
+4. **Confirm Marketplace coverage** — did you use healthcare.gov coverage May–Dec after Salesforce ended?
+5. **Verify GEICO 401k rollover** — confirm receiving institution got the full $1,501.86
+6. **File Texas Franchise Tax** for Eager LLC by May 15, 2026
+
+---
+
+*This is a working estimate — not tax advice. Final numbers depend on pending documents and the questions above.*
