@@ -5,8 +5,8 @@ GEICO,GEICO W-2,geico/2025_Geico_W2.pdf,W-2,added,,Wages $11499.02,Received,2026
 Kizen,Kizen W-2,kizen/2025_kizen_w2.pdf,W-2,added,,Wages $101913.21,Received,2026-03-26
 Salesforce,Salesforce W-2,salesforce/2025_salesforce_w2.pdf,W-2,added,Includes Box W: $4160 employer HSA contribution,Wages $209615.55,Received,2026-03-26
 Salesforce,Salesforce 1095-C,salesforce/2025_salesforce_1095-C health insurance offer and coverage.pdf,1095-C,n/a,Coverage Jan-Apr only; check if Form 8962 needed for May-Dec Marketplace coverage; doesn't apply to me because we had employeer coverage,,Received,2026-03-26
-Optum Financial,HSA 1099-SA (Distributions),salesforce/2025_Optum Financial_1099-SA.pdf,1099-SA / Form 8889,added,,Distributions $7727.13,Received,2026-03-26
-Optum Financial,HSA 5498-SA (Contributions),salesforce/2025_Optum Financial_5498-SA.pdf,5498-SA / Form 8889,added,May exceed 2025 family HSA limit ($8300) — verify on Form 8889 Part I,Contributions $8550.00 | FMV $1199.44,Received,2026-03-26
+Optum Financial,HSA 1099-SA (Distributions),salesforce_hsa/2025-1099-SA-original.pdf,1099-SA / Form 8889,added,,Distributions $7727.13,Received,2026-03-26
+Optum Financial,HSA 5498-SA (Contributions),salesforce_hsa/2025-5498-SA-original.pdf,5498-SA / Form 8889,added,May exceed 2025 family HSA limit ($8300) — verify on Form 8889 Part I,Contributions $8550.00 | FMV $1199.44,Received,2026-03-26
 Chase,Mortgage Interest Statement,mortgage_interest/2025_chase_mortgage_annual_tax_and_interest_statement.pdf,1098 / Schedule A,n/a standard deduction,,Mortgage interest $3400.41 | Principal $150129.08,Received,2026-03-26
 Vanguard / GEICO,1099-R — IRA Early Distribution,geico/2025_geico_vanguard_1099-R Distributions from IRA.pdf,1099-R,added,Code 1 — early distribution; ~$148 penalty likely applies; file Form 5329 if claiming exception,Gross $1481.72 (fully taxable),Received,2026-03-26
 Vanguard / GEICO,1099-R — GEICO 401k Direct Rollover,geico/2025_geico_vanguard_1099-R Distributions from IRA Copy B.pdf,1099-R,added,Code G — direct rollover; not taxable; confirm receiving account received full amount,Gross $1501.86 | taxable $0,Received,2026-03-26
