@@ -1,25 +1,25 @@
-Financial Org,Document,Path,Tax Form,Notes,Key Amounts,Status,Date Added
-Fidelity,Fidelity Individual Trading 1099,fidelity/2025-Individual-Trading-6724-Consolidated-Form-1099.pdf,1099-DIV / 1099-B,,Dividends $755.35 | Net cap gains $10279.45,Received,2026-03-26
-Fidelity,Fidelity Joint Managed 1099,fidelity/2025-Joint-Managed-9595-Consolidated-Form-1099.pdf,1099-DIV / 1099-B,,Dividends $2228.05 | Net cap gains $2665.88,Received,2026-03-26
-GEICO,GEICO W-2,geico/2025_Geico_W2.pdf,W-2,,Wages $11499.02,Received,2026-03-26
-Kizen,Kizen W-2,kizen/2025_kizen_w2.pdf,W-2,,Wages $101913.21,Received,2026-03-26
-Salesforce,Salesforce W-2,salesforce/2025_salesforce_w2.pdf,W-2,Includes Box W: $4160 employer HSA contribution,Wages $209615.55,Received,2026-03-26
-Salesforce,Salesforce 1095-C,salesforce/2025_salesforce_1095-C health insurance offer and coverage.pdf,1095-C,Coverage Jan-Apr only; check if Form 8962 needed for May-Dec Marketplace coverage,,Received,2026-03-26
-Optum Financial,HSA 1099-SA (Distributions),salesforce/2025_Optum Financial_1099-SA.pdf,1099-SA / Form 8889,,Distributions $7727.13,Received,2026-03-26
-Optum Financial,HSA 5498-SA (Contributions),salesforce/2025_Optum Financial_5498-SA.pdf,5498-SA / Form 8889,May exceed 2025 family HSA limit ($8300) — verify on Form 8889 Part I,Contributions $8550.00 | FMV $1199.44,Received,2026-03-26
-Chase,Mortgage Interest Statement,mortgage_interest/2025_chase_mortgage_annual_tax_and_interest_statement.pdf,1098 / Schedule A,,Mortgage interest $3400.41 | Principal $150129.08,Received,2026-03-26
-Vanguard / GEICO,1099-R — IRA Early Distribution,geico/2025_geico_vanguard_1099-R Distributions from IRA.pdf,1099-R,Code 1 — early distribution; ~$148 penalty likely applies; file Form 5329 if claiming exception,Gross $1481.72 (fully taxable),Received,2026-03-26
-Vanguard / GEICO,1099-R — GEICO 401k Direct Rollover,geico/2025_geico_vanguard_1099-R Distributions from IRA Copy B.pdf,1099-R,Code G — direct rollover; not taxable; confirm receiving account received full amount,Gross $1501.86 | taxable $0,Received,2026-03-26
-LDS Church,Tithing (Monarch export),charity/tithing_2025.csv,Schedule A,,$10538.00,Received,2026-03-26
-LDS Church,Mission — Michael (Monarch export),charity/mission_2025.csv,Schedule A,,$2780.00,Received,2026-03-26
-Various,Charitable Donations — combined (Monarch export),charity/charitable_donations_2025.csv,Schedule A,Combined export including tithing + mission + other charity; see individual CSVs for breakdown,$14069.57,Received,2026-03-26
-Various,True Charity Donations (Monarch export),charity/true_charity_2025.csv,Schedule A,,$971.13,Received,2026-03-26
-Eager LLC,Eager LLC Business Expenses (Monarch export),eager_llc_expenses/eager_llc_expenses_2025.csv,Schedule C,,$66097.27,Received,2026-03-26
-E*TRADE / Morgan Stanley,E*TRADE Consolidated 1099,etrade/2025_etrade_MS_2025_1099-CONS_MSSB_LLC_8203_20260217.pdf,1099-DIV / 1099-B,All CRM (Salesforce RSU/ESPP); see supplemental for ESPP basis adjustment of $1635.18,Dividends $422.71 | Net cap gains ~$19945.04 (adjusted ~$18664.79),Received,2026-03-26
-Fidelity,Fidelity Crypto Account 1099,,1099,Need to locate document from Fidelity,,Pending,2026-03-26
-Alumni Ventures,AV AI Fund 2 K-1,alumni_ventures/2025-AV-AI-Fund-2-Joseph-Fluckiger-35174.pdf,K-1 (Form 1065),LTCG may need Section 1061 recharacterization to short-term; mgmt fees $600 likely non-deductible,Interest $87 | LTCG $394 | Net ($119),Received,2026-03-26
-Alumni Ventures,Congress Avenue Ventures Fund 4 K-1,alumni_ventures/2025-Congress-Avenue-4-Joseph-Fluckiger-35880.pdf,K-1 (Form 1065),LTCG loss may need Section 1061 recharacterization; mgmt fees $600 likely non-deductible,Interest $172 | LTCG ($447) | Net ($878),Received,2026-03-26
-LDS Church,Official Donation Statement 2025,charity/LDS_Offical_donation_2025_DON-014.pdf,Schedule A,Tithing $7188 + Ward Missionary $4130; official receipt — differs from Monarch exports,$11318.00,Received,2026-03-26
-Williamson County,Property Tax Statement 2025,property_tax/Property Tax 2025.pdf,SALT / Schedule A,Homestead exemption applied; SALT capped at $10000,$10902.97,Received,2026-03-26
-Boxwilson,Boxwilson K-1,,K-1 (Form 1065),,,Pending,2026-03-26
-Boxwilson,Eager LLC 4Q2025 Report,boxwilson/Eager LLC 4Q2025 Report.pdf,Reference,BWE8 distributions $1075.74; BWEVargas $0; used to estimate K-1 impact (~$0 tax),$1075.74 distributions,Received,2026-03-26
+Financial Org,Document,Path,Tax Form,FreeTaxUSA,Notes,Key Amounts,Status,Date Added
+Fidelity,Fidelity Individual Trading 1099,fidelity/2025-Individual-Trading-6724-Consolidated-Form-1099.pdf,1099-DIV / 1099-B,,,Dividends $755.35 | Net cap gains $10279.45,Received,2026-03-26
+Fidelity,Fidelity Joint Managed 1099,fidelity/2025-Joint-Managed-9595-Consolidated-Form-1099.pdf,1099-DIV / 1099-B,,,Dividends $2228.05 | Net cap gains $2665.88,Received,2026-03-26
+GEICO,GEICO W-2,geico/2025_Geico_W2.pdf,W-2,added,,Wages $11499.02,Received,2026-03-26
+Kizen,Kizen W-2,kizen/2025_kizen_w2.pdf,W-2,added,,Wages $101913.21,Received,2026-03-26
+Salesforce,Salesforce W-2,salesforce/2025_salesforce_w2.pdf,W-2,added,Includes Box W: $4160 employer HSA contribution,Wages $209615.55,Received,2026-03-26
+Salesforce,Salesforce 1095-C,salesforce/2025_salesforce_1095-C health insurance offer and coverage.pdf,1095-C,,Coverage Jan-Apr only; check if Form 8962 needed for May-Dec Marketplace coverage,,Received,2026-03-26
+Optum Financial,HSA 1099-SA (Distributions),salesforce/2025_Optum Financial_1099-SA.pdf,1099-SA / Form 8889,,,Distributions $7727.13,Received,2026-03-26
+Optum Financial,HSA 5498-SA (Contributions),salesforce/2025_Optum Financial_5498-SA.pdf,5498-SA / Form 8889,,May exceed 2025 family HSA limit ($8300) — verify on Form 8889 Part I,Contributions $8550.00 | FMV $1199.44,Received,2026-03-26
+Chase,Mortgage Interest Statement,mortgage_interest/2025_chase_mortgage_annual_tax_and_interest_statement.pdf,1098 / Schedule A,,,Mortgage interest $3400.41 | Principal $150129.08,Received,2026-03-26
+Vanguard / GEICO,1099-R — IRA Early Distribution,geico/2025_geico_vanguard_1099-R Distributions from IRA.pdf,1099-R,,Code 1 — early distribution; ~$148 penalty likely applies; file Form 5329 if claiming exception,Gross $1481.72 (fully taxable),Received,2026-03-26
+Vanguard / GEICO,1099-R — GEICO 401k Direct Rollover,geico/2025_geico_vanguard_1099-R Distributions from IRA Copy B.pdf,1099-R,,Code G — direct rollover; not taxable; confirm receiving account received full amount,Gross $1501.86 | taxable $0,Received,2026-03-26
+LDS Church,Tithing (Monarch export),charity/tithing_2025.csv,Schedule A,n/a,,$10538.00,Received,2026-03-26
+LDS Church,Mission — Michael (Monarch export),charity/mission_2025.csv,Schedule A,n/a,,$2780.00,Received,2026-03-26
+Various,Charitable Donations — combined (Monarch export),charity/charitable_donations_2025.csv,Schedule A,n/a,Combined export including tithing + mission + other charity; see individual CSVs for breakdown,$14069.57,Received,2026-03-26
+Various,True Charity Donations (Monarch export),charity/true_charity_2025.csv,Schedule A,n/a,,$971.13,Received,2026-03-26
+Eager LLC,Eager LLC Business Expenses (Monarch export),eager_llc_expenses/eager_llc_expenses_2025.csv,Schedule C,n/a,,$66097.27,Received,2026-03-26
+E*TRADE / Morgan Stanley,E*TRADE Consolidated 1099,etrade/2025_etrade_MS_2025_1099-CONS_MSSB_LLC_8203_20260217.pdf,1099-DIV / 1099-B,,All CRM (Salesforce RSU/ESPP); see supplemental for ESPP basis adjustment of $1635.18,Dividends $422.71 | Net cap gains ~$19945.04 (adjusted ~$18664.79),Received,2026-03-26
+Fidelity,Fidelity Crypto Account 1099,,1099,,Need to locate document from Fidelity,,Pending,2026-03-26
+Alumni Ventures,AV AI Fund 2 K-1,alumni_ventures/2025-AV-AI-Fund-2-Joseph-Fluckiger-35174.pdf,K-1 (Form 1065),added,LTCG may need Section 1061 recharacterization to short-term; mgmt fees $600 likely non-deductible,Interest $87 | LTCG $394 | Net ($119),Received,2026-03-26
+Alumni Ventures,Congress Avenue Ventures Fund 4 K-1,alumni_ventures/2025-Congress-Avenue-4-Joseph-Fluckiger-35880.pdf,K-1 (Form 1065),added,LTCG loss may need Section 1061 recharacterization; mgmt fees $600 likely non-deductible,Interest $172 | LTCG ($447) | Net ($878),Received,2026-03-26
+LDS Church,Official Donation Statement 2025,charity/LDS_Offical_donation_2025_DON-014.pdf,Schedule A,,Tithing $7188 + Ward Missionary $4130; official receipt — differs from Monarch exports,$11318.00,Received,2026-03-26
+Williamson County,Property Tax Statement 2025,property_tax/Property Tax 2025.pdf,SALT / Schedule A,,Homestead exemption applied; SALT capped at $10000,$10902.97,Received,2026-03-26
+Boxwilson,Boxwilson K-1,,K-1 (Form 1065),,,,Pending,2026-03-26
+Boxwilson,Eager LLC 4Q2025 Report,boxwilson/Eager LLC 4Q2025 Report.pdf,Reference,,BWE8 distributions $1075.74; BWEVargas $0; used to estimate K-1 impact (~$0 tax),$1075.74 distributions,Received,2026-03-26
