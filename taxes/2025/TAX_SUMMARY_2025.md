@@ -1,6 +1,6 @@
 # Tax Summary — Joseph & Sarah Fluckiger
 ## Tax Year 2025 | Filing Status: Married Filing Jointly
-*Last updated: 2026-03-26*
+*Last updated: 2026-03-26 (FreeTaxUSA in progress — pending Fidelity Crypto 1099 and Boxwilson K-1)*
 
 ---
 
@@ -194,9 +194,9 @@ All other documents have been received and processed. See `Taxdocs_2025_Doc_Inve
 
 | Credit | Amount |
 |---|---|
-| Child Tax Credit — Eliza (under 17) × $2,000 | $2,000 |
+| Child Tax Credit — Eliza (under 17) | $2,200 |
 | Credit for Other Dependents — Michael + Yeni + Landon × $500 | $1,500 |
-| **Total credits** | **$3,500** |
+| **Total credits** | **$3,700** |
 
 > Landon turned 17 on 2/24/25 — no longer qualifies for $2,000 child tax credit (must be under 17 at 12/31/25).
 > Phase-out begins at $400K AGI (MFJ) — AGI of ~$355K is well under.
@@ -210,7 +210,9 @@ All other documents have been received and processed. See `Taxdocs_2025_Doc_Inve
 | Credits | ($3,500) |
 | **Total estimated tax** | **$59,347** |
 | Federal tax withheld (W-2s) | ($58,494) |
-| **Estimated balance due** | **~$853** |
+| **FreeTaxUSA current estimate** | **$6,987 refund** |
+
+> Note: FreeTaxUSA shows a $6,987 refund as of 3/26/2026 (before Fidelity Crypto and Boxwilson K-1 are added). The manual estimate above was rough — trust FreeTaxUSA's calculation.
 
 ---
 
